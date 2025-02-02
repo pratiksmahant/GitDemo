@@ -21,6 +21,11 @@ public class reverseeachwordinstring {
     	 revString = revString + revWord +"";
      }
      System.out.println(revString);
+
+
+		System.out.println(revString);
+		System.out.println(revString);
+
 	}
 
 	
