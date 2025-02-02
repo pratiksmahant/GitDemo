@@ -24,8 +24,10 @@ public class reverseeachwordinstring {
 
 
 		System.out.println(revString);
+
 		System.out.println(revString);
 
+		System.out.println(revStringdfd);
 	}
 
 	
