@@ -6,6 +6,8 @@ public class countduplicaseofword {
 		System.out.println("har har mahadevvvv");
 
 System.out.println("har har mahadevvvv");
+		System.out.println("har har mahadevvvv");
+		
 
 	}
 
